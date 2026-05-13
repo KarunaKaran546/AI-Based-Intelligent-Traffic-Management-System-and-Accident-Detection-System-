@@ -10,3 +10,8 @@ CAMERA: 720p FaceTime HD
 2. Software Requirements
 Operating System: Windows / Linux / macOS
 Programming Language: Python
+# Issues and Challenges 
+• Inefficientstatic traffic signal timing
+• High cost ofsensor-based traffic monitoring systems
+• Limited scalability of traditional systems
+• False alarms and inaccurate accident detection
